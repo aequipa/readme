@@ -1,2 +1,2 @@
 # readme
-refer to the https://github.com/equipa
+refer to https://github.com/equipa
